@@ -25,6 +25,10 @@ Mardown syntax
 int number = 10;
 Console.WriteLine(number);
 ```
+### Table:
+Employee Id|Emp Name
+-|-
+6031330|murali
 ### Footnote:
 this is footnote[^1] and another footer[^2]
 [^1]: First foor ref
