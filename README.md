@@ -40,7 +40,6 @@ this is footnote[^1] and another footer[^2]
   we can have another section here
 </details>
 🖤
-It is just practice repo for GitHub
 
 ### Another Contributor
 muraliv030hotmail preferred his email as private so his alias email address 178687854+muraliv030hotmail@users.noreply.github.com
